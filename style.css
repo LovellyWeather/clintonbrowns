@@ -61,7 +61,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Roboto' Cambria;
+	font-family: 'Heebo','Archivo Narrow', sans-serif;
 	font-weight: 700;
 	margin-top: 0;
 }
@@ -269,7 +269,7 @@ iframe {
 
 .mu-logo {
 	font-size: 30px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	display: inline-block;
 	font-weight: 700;
 	background: #fff;
