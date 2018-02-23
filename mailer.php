@@ -22,7 +22,7 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "contact@markups.io";
+        $recipient = "tleelovell@gmail.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
@@ -52,5 +52,4 @@
         http_response_code(403);
         echo "There was a problem with your submission, please try again.";
     }
-
 ?>
