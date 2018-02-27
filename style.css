@@ -329,10 +329,10 @@ iframe {
 }
 
 .mu-scrolldown {
-	font-size: 40px;
+	font-size: 15px;
 	color: #fff;
 	display: inline-block;
-	margin-top: 50px;
+	margin-top: 15px;
 }
 
 .mu-scrolldown:hover,
@@ -1258,8 +1258,8 @@ iframe {
 	}
 
 	.mu-scrolldown {
-		font-size: 35px;
-		margin-top: 40px;
+		font-size: 10px;
+		margin-top: 30px;
 	}
 	
 	h2 {
