@@ -55,6 +55,7 @@
     left: 0;
 
     display: block;
+    align-content: center;
 }
 .slick-track:before,
 .slick-track:after
